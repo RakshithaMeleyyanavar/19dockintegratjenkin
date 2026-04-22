@@ -10,7 +10,7 @@ pipeline {
         stage('Clone Code') {
             steps {
                 echo "Cloning GitHub repo..."
-                git 'https://github.com/YOUR_USERNAME/Docker-Jenkins-Integration.git'
+                git 'https://github.com/RakshithaMeleyyanavar/19dockintegratjenkin.git'
             }
         }
 
