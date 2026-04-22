@@ -45,3 +45,31 @@ pipeline {
         }
     }
 }
+
+
+
+
+
+
+STEP 6: VERIFY DOCKER OUTPUT
+
+Open CMD / Terminal:
+
+✔ Check Docker Images
+docker images
+
+
+👉 You should see:
+
+my-app
+
+✔ Check Running Containers
+docker ps
+
+
+👉 You should see container running
+
+
+
+docker images
+docker ps
